@@ -3,6 +3,7 @@ THIS IS AN EMBEDDED SYSTEMS BASED PROJECT USING THE PIC18F4580.
 The Car Black Box project aims to develop a sophisticated data logging and monitoring system for vehicles, utilizing the PIC18F4580 microcontroller in conjunction with a matrix keypad, Character LCD (CLCD) display, Real-Time Clock (RTC), and Analog-to-Digital Converter (ADC).
 This integrated solution provides a comprehensive platform for capturing, displaying, and analyzing crucial vehicle data.
 
+for the above code use only the .c and .h file and the makefile to build the file
 software requirment :
 1. MPLAB X IDE : editor to write a code
 2. XC8 Compiler : to exectue the code we need the compiler
