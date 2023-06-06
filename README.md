@@ -4,11 +4,12 @@ The Car Black Box project aims to develop a sophisticated data logging and monit
 This integrated solution provides a comprehensive platform for capturing, displaying, and analyzing crucial vehicle data.
 
 for the above code use only the .c and .h file and the makefile to build the file
+
 software requirment :
 1. MPLAB X IDE : editor to write a code
 2. XC8 Compiler : to exectue the code we need the compiler
 3. tinyboot loader : to dump the code in the micro-controller
-4. tera term : to viwe the output from the UART/RS323 
+4. tera term : to view the output from the UART/RS323 
 5. PIC18F4580 by Micro-chip
 
 Steps to Execute the project
