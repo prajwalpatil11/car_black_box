@@ -1,0 +1,1 @@
+ exter.d  exter.p1:  exter.c main.h i2c.h exter.h
